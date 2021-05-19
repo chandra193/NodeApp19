@@ -4,7 +4,7 @@ const app = express()
 
 app.get("/", function (req,res) {
 
-    res.send("IT WORKED  but changed")
+    res.send("Update the Code and check the code")
     
 });
 
